@@ -1,0 +1,47 @@
+# emacs
+*~
+
+# vim
+.swp
+
+# Mac
+.DS_*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+## proposed by https://github.com/katalon-studio/ShadowDOMSampleProject/blob/master/.gitignore#L3
+/\.classpath
+/\.project
+/\.settings/
+/bin/
+/Libs/
+/Drivers/
+/settings/
+
+## I do not want Report to be published
+/Reports/
+/Materials/
+/Storage/
+/tmp/
+
+# Gradle
+.gradle
+build/
+tmp/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
+/bin/
